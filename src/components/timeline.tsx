@@ -1,7 +1,7 @@
 import React from 'react';
 
-function TimeLine() {
-  return <div className="container col-span-2">TimeLine</div>;
+function Timeline() {
+  return <div className="container col-span-2">T</div>;
 }
 
-export default TimeLine;
+export default Timeline;
