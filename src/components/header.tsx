@@ -1,5 +1,7 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+/** @format */
+
+import React from "react";
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
@@ -17,6 +19,7 @@ function Header() {
               </Link>
             </h1>
           </div>
+          <div className="text-gray-700 text-center flex items-center align-items"></div>
         </div>
       </div>
     </header>
